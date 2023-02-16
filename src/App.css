@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  object-fit: fill;
+}
+
+.img-sizing{
+  width: 400px;
+  height: 300px;
+}
+
+.img-sizing-article{
+  width: 500px;
+  height: 300px;
+}
+.img-sizing-table{
+  width: 100px;
+  height: 100px;
+}
+.img-sizing-rounded{
+  width: 150px;
+  height: 150px;
+}
